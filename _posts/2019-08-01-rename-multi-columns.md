@@ -51,8 +51,3 @@ Jim            | 200             | 221            | 230
 Todd           | 145             | 178            | 155
 Bill           | 133             | 143            | 123
 
-<ul>
-  {% for tags in page.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
-</ul>
