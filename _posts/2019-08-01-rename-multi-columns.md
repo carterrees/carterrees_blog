@@ -4,10 +4,11 @@ title:  Rename Multiple Columns
 date:   2019-08-01 13:32:20 -0600
 categories: jekyll update
 tags: [python]
+excerpt_separator: <!--more-->
 ---
 #### Renaming multiple columns with a for loop.
 
-Below I demonstrate how to rename multiple columns in a sequence using a for loop in Python. 
+Below I demonstrate how to rename multiple columns in a sequence using a for loop in Python. <!--more-->
 I often seen longitudinal data stored this way inclusive of the poor naming convention. I assume the columns
 are in the proper order and want to add a numerical sequenced index to the column name.
 
