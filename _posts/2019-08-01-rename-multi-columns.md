@@ -3,7 +3,7 @@ layout: post
 title:  Rename Multiple Columns
 date:   2019-08-01 13:32:20 -0600
 categories: jekyll update
-tags: python
+tags: [python]
 ---
 #### Renaming multiple columns with a for loop.
 
@@ -50,3 +50,9 @@ name           | weight_lbs_1      | weight_lbs_2     | weight_lbs_3
 Jim            | 200             | 221            | 230
 Todd           | 145             | 178            | 155
 Bill           | 133             | 143            | 123
+
+<ul>
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
+</ul>
