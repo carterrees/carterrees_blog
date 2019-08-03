@@ -3,6 +3,7 @@ layout: post
 title:  Rename Multiple Columns
 date:   2019-08-01 13:32:20 -0600
 categories: jekyll update
+author: Carter Rees
 tags: [python]
 
 ---
