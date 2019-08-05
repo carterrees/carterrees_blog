@@ -11,17 +11,15 @@ cause (more often correlation) and effects. The challenge of sorting out why eve
 what I enjoy most. Accurate prediction is hard, the challenge of doing it well is fun.
 
 
-##### Education
+#####Education
+* Ph.D Criminology(quantitative emphasis), [University at Albany, State University of New York](https://www.albany.edu/scj/), 2011
+* MA Political Science (Graduate Minor in Statistics), [University of Wyoming](http://www.uwyo.edu/pols/), 2002
+* BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
 
-Ph.D Criminology(quantitative emphasis), [University at Albany, State University of New York](https://www.albany.edu/scj/), 2011
-MA Political Science (Graduate Minor in Statistics), [University of Wyoming](http://www.uwyo.edu/pols/), 2002
-BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
-
-##### Employment
-
-Senior Manager, Data Science [DigiCert](www.digicert.com), Lehi, UT
-Principal Data Scientist, [DigiCert](www.digicert.com), Lehi, UT
-Data Scientist, [Domo](www.domo.com), American Fork, UT
+#####Employment
+* Senior Manager, Data Science [DigiCert](www.digicert.com), Lehi, UT
+* Principal Data Scientist, [DigiCert](www.digicert.com), Lehi, UT
+* Data Scientist, [Domo](www.domo.com), American Fork, UT
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
