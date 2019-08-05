@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I am a former Professor at [Arizona State University](https://ccj.asu.edu) and [Brigham Young University](https://sociology.byu.edu)
+Data Scientist with 18 years of applied statistical research experience. Extensive experience leading quantitative research
+projects and teams from problem conception, data collection, analysis to reporting. Former Professor at 
+[Arizona State University](https://ccj.asu.edu) and [Brigham Young University](https://sociology.byu.edu)
 and author of 13 peer reviewed [academic journal articles and book chapters](https://scholar.google.com/citations?hl=en&authuser=1&user=ippq3CwAAAAJ)
-which focus on quantifying and predicting human behavior.
-The tech industry on the [Silicon Slopes](https://siliconslopes.com) is [booming](https://www.utahbusiness.com/tech-silicon-slopes/) 
-so I made the jump to pursue a career in data science. I see the world in terms of research questions, independent and 
-dependent variables, cause (more often correlation) and effect. The challenge of sorting out why events occur in a 
-multifarious world is what I enjoy most. Accurate prediction is hard, the challenge of doing it well is fun.
+which focus on quantifying and predicting human behavior. The tech industry on the [Silicon Slopes](https://siliconslopes.com) 
+is [booming](https://www.utahbusiness.com/tech-silicon-slopes/)  so I made the jump to pursue a career in data science. 
+I see the world in terms of research questions, independent and dependent variables, cause (more often correlation) and effect. 
+The challenge of sorting out why events occur in a multifarious world is what I enjoy most. Accurate prediction is hard, 
+the challenge of doing it well is fun.
 
 
 **Education**
