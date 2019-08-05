@@ -27,6 +27,7 @@ with business stakeholders and executives. My main objective is the development 
 across company organizations with a view of improving overall company performance but with a focus on revenue growth 
 and achievement of the business’ OKR’s and KPI’s.
 
+
 - *Principal Data Scientist*, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
 
 - *Data Scientist*, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
