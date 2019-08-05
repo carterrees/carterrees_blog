@@ -7,7 +7,7 @@ permalink: /about/
 I am a former Professor at [Arizona State University](https://ccj.asu.edu) and [Brigham Young University](https://sociology.byu.edu).
 The tech industry on the [Silicon Slopes](https://siliconslopes.com) is [booming](https://www.utahbusiness.com/tech-silicon-slopes/) 
 so I made the jump to pursue a career in data science. I see the world in terms of research questions, independent and 
-dependent variables, cause (more often correlation) and effects. The challenge of sorting out why events occur in a 
+dependent variables, cause (more often correlation) and effect. The challenge of sorting out why events occur in a 
 multifarious world is what I enjoy most. Accurate prediction is hard, the challenge of doing it well is fun.
 
 
@@ -21,13 +21,7 @@ multifarious world is what I enjoy most. Accurate prediction is hard, the challe
 * Principal Data Scientist, [DigiCert](www.digicert.com), Lehi, UT
 * Data Scientist, [Domo](www.domo.com), American Fork, UT
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
 [jekyll-organization]: https://github.com/jekyll
