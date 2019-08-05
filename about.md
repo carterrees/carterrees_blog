@@ -19,11 +19,8 @@ multifarious world is what I enjoy most. Accurate prediction is hard, the challe
 * BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
 
 **Employment**
-* Senior Manager, Data Science [DigiCert](https://www.digicert.com), Lehi, UT
-* Principal Data Scientist, [DigiCert](https://www.digicert.com), Lehi, UT
-* Data Scientist, [Domo](https://www.domo.com), American Fork, UT
+* Senior Manager, Data Science [DigiCert](https://www.digicert.com), Lehi, UT Feb 2019-Present
+* Principal Data Scientist, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
+* Data Scientist, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
 
 
-
-
-[jekyll-organization]: https://github.com/jekyll
