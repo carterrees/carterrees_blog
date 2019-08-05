@@ -20,7 +20,7 @@ the challenge of doing it well is fun.
 * MA Political Science (Graduate Minor in Statistics), [University of Wyoming](http://www.uwyo.edu/pols/), 2002
 * BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
 
-**Employment**
+**Tech Employment**
 - *Senior Manager, Data Science* [DigiCert](https://www.digicert.com), Lehi, UT Feb 2019-Present
     - I lead a team of data scientists which is tasked with developing the enterprise data science road map for engagement
 with business stakeholders and executives. My main objective is the development and initiation of data science programs 
