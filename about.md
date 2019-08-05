@@ -35,4 +35,5 @@ and achievement of the business’ OKR’s and KPI’s.
 from a human centered design perspective. Current focus is working with our software engineering and UX/UI teams to 
 allow our customers to use machine learning methods within the Domo product.
 
-
+**Development Tools**
+- Python, R, Bash, Shell, Linux, MySQL, Github, Jira, Confluence, AWS RDS and EC2
