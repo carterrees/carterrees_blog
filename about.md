@@ -21,12 +21,15 @@ the challenge of doing it well is fun.
 * BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
 
 **Employment**
-* Senior Manager, Data Science [DigiCert](https://www.digicert.com), Lehi, UT Feb 2019-Present
-    *I lead a team of data scientists which is tasked with developing the enterprise data science road map for engagement
+- Senior Manager, Data Science [DigiCert](https://www.digicert.com), Lehi, UT Feb 2019-Present
+    - I lead a team of data scientists which is tasked with developing the enterprise data science road map for engagement
 with business stakeholders and executives. My main objective is the development and initiation of data science programs 
 across company organizations with a view of improving overall company performance but with a focus on revenue growth 
 and achievement of the business’ OKR’s and KPI’s.
-* Principal Data Scientist, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
-* Data Scientist, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
+- Principal Data Scientist, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
+- Data Scientist, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
+    - My main duties are in developing and implementing Domo’s data science product roadmap
+from a human centered design perspective. Current focus is working with our software engineering and UX/UI teams to 
+allow our customers to use machine learning methods within the Domo product.
 
 
