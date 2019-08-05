@@ -25,8 +25,7 @@ the challenge of doing it well is fun.
     - I lead a team of data scientists which is tasked with developing the enterprise data science road map for engagement
 with business stakeholders and executives. My main objective is the development and initiation of data science programs 
 across company organizations with a view of improving overall company performance but with a focus on revenue growth 
-and achievement of the business’ OKR’s and KPI’s.  
-<br><br>
+and achievement of the business’ OKR’s and KPI’s.<br>
 - *Principal Data Scientist*, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
 
 - *Data Scientist*, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
