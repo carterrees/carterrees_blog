@@ -5,8 +5,8 @@ date:   2019-08-01 13:32:20 -0600
 categories: jekyll update
 author: Carter Rees
 tags: [python]
-
 ---
+
 #### Renaming multiple columns with a for loop.
 
 Below I demonstrate how to rename multiple columns in a sequence using a for loop in Python. I often seen longitudinal 
@@ -17,7 +17,6 @@ are in the proper order and want to add a numerical sequenced index to the colum
 ```python
 # Python code demonstrate how to create  
 # Pandas DataFrame by lists of lists. 
-import pandas as pd 
   
 import pandas as pd
 
