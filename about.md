@@ -31,7 +31,7 @@ and achievement of the business’ OKR’s and KPI’s.
 - *Principal Data Scientist*, [DigiCert](https://www.digicert.com), Lehi, UT Feb 2018-Jan 2019
 
 - *Data Scientist*, [Domo](https://www.domo.com), American Fork, UT Aug 2016-Jan 2018
-    - My main duties are in developing and implementing Domo’s data science product roadmap
+    - My main duties are in developing and implementing Domo’s data science product road map
 from a human centered design perspective. Current focus is working with our software engineering and UX/UI teams to 
 allow our customers to use machine learning methods within the Domo product.
 
