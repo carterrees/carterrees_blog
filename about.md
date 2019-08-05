@@ -14,7 +14,7 @@ multifarious world is what I enjoy most. Accurate prediction is hard, the challe
 
 
 **Education**
-* Ph.D Criminology(quantitative emphasis), [University at Albany, State University of New York](https://www.albany.edu/scj/), 2011
+* Ph.D Criminology (quantitative emphasis), [University at Albany, State University of New York](https://www.albany.edu/scj/), 2011
 * MA Political Science (Graduate Minor in Statistics), [University of Wyoming](http://www.uwyo.edu/pols/), 2002
 * BA History, [Dakota Wesleyan University](https://www.dwu.edu/academics/majors-minors/history), 1998
 
