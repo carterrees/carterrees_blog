@@ -61,6 +61,15 @@ top_domain.columns = ['company', 'top_company_domain']
 print(top_domain)
 
 ```
+<!-- make sure you put a line break before any table code otherwise it won't render on page -->
+
+company              | top_company_domain
+:------------:       | :------------:
+abc_company          |trav.com
+def_company          |sack.com
+ghi_company          |blerp.com
+
+
 The domain with the highest count is returned and represents the domain with the highest number
 of associated serial numbers. Note that the ghi_company returned the domain that is first in 
 alphabetical order given each domain has one serial number.
