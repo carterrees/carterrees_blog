@@ -51,3 +51,8 @@ Jim            | 200             | 221            | 230
 Todd           | 145             | 178            | 155
 Bill           | 133             | 143            | 123
 
+```r
+install.packages(dplyr)
+
+table(diamonds$CLARITY, diamonds$CUT)
+```
