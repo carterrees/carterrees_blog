@@ -45,7 +45,7 @@ df.columns = df.columns.str.replace('[^0-9a-zA-Z]+', '_').str.lower()
 print(df)
 ```
 
-first_name     | count           | weight_lbs     | shoe_size_mm
+first_name     | counts           | weight_lbs     | shoe_size_mm
 :------------: | :-------------: | :------------: | :------------:
 Jim            | 200             | 221            | 230
 Todd           | 145             | 178            | 155
