@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Replacing String Values with For Loops
