@@ -10,9 +10,9 @@ tags: [python]
 
 ### Replacing string values with a for loop.
 
-The data set below is at the subsidary unit of analysis. Misspellings are often part
-of nested data, especially data that is scraped from the web. The code below creates a list of
-values for the subsidary Micro, Inc. of Parent Company A and standadizes those values.
+The data set below is at the subsidary unit of analysis. Misspellings are often part data scraped 
+from the web. The code below creates a list of
+values for the subsidiary Micro, Inc. of Parent Company A and standadizes those values.
 
 ```python
 import pandas as pd
