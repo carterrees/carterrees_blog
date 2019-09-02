@@ -7,7 +7,6 @@ author: Carter Rees
 tags: [python]
 ---
 
-### Replacing string values with a for loop.
 
 The data set below is at the subsidiary unit of analysis. Misspellings are often part data scraped 
 from the web. The code below creates a list of

@@ -7,7 +7,6 @@ author: Carter Rees
 tags: [python]
 ---
 
-#### Renaming multiple columns with a for loop.
 
 Below I demonstrate how to rename multiple columns in a sequence using a for loop in Python. I often seen longitudinal 
 data stored this way inclusive of the poor naming convention. I assume the columns
