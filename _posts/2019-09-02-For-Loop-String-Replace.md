@@ -23,7 +23,7 @@ df = pd.DataFrame(
     ['Parent Company A', 'Micro, inc' , 221],
     ['Parent Company B', 'Poop Corp', 435],
     ['Parent Company B', 'Poop Corp', 435]],
-    columns=['parent_company', 'subsidary', 
+    columns=['parent_company', 'subsidiary', 
              'revenue_millions'])
   
 # Print the data 
@@ -31,7 +31,7 @@ print(df)
 ```
 <!-- make sure you put a line break before any table code otherwise it won't render on page -->
 
-parent_company    | subsidary       | revenue_millions   
+parent_company    | subsidiary      | revenue_millions   
 :------------:    | :-------------: | :------------:
 Parent Company A  | Micro, Inc      | 221
 Parent Company A  | micro inc       | 221
@@ -47,7 +47,7 @@ for sub_names in comp_a_sub_names:
 print(df)
 ```
 
-parent_company    | subsidary       | revenue_millions   
+parent_company    | subsidiary      | revenue_millions   
 :------------:    | :-------------: | :------------:
 Parent Company A  | Micro, Inc.     | 221
 Parent Company A  | Micro, Inc.     | 221
