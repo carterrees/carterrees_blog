@@ -7,7 +7,6 @@ author: Carter Rees
 tags: [python]
 ---
 
-#### Renaming multiple columns with a for loop.
 
 Column names can be messy and full of junk characters. I like underscores to separate words
 and everything lowercase.
