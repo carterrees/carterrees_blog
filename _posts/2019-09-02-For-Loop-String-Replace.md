@@ -9,7 +9,7 @@ tags: [python]
 
 ### Replacing string values with a for loop.
 
-The data set below is at the subsidary unit of analysis. Misspellings are often part data scraped 
+The data set below is at the subsidiary unit of analysis. Misspellings are often part data scraped 
 from the web. The code below creates a list of
 values for the subsidiary Micro, Inc. of Parent Company A and standardizes those values.
 
