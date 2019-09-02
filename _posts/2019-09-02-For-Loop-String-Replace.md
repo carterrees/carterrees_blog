@@ -12,7 +12,7 @@ tags: [python]
 
 The data set below is at the subsidary unit of analysis. Misspellings are often part data scraped 
 from the web. The code below creates a list of
-values for the subsidiary Micro, Inc. of Parent Company A and standadizes those values.
+values for the subsidiary Micro, Inc. of Parent Company A and standardizes those values.
 
 ```python
 import pandas as pd
@@ -42,7 +42,7 @@ Parent Company B  | Poop, Corp      | 435
 ```python
 comp_a_sub_names = ['Micro, Inc', 'micro inc', 'Micro, inc']
 for sub_names in comp_a_sub_names:
-    df['subsidary'] = df['subsidary'].str.replace(sub_names, 'Micro, Inc.')
+    df['subsidiary'] = df['subsidary'].str.replace(sub_names, 'Micro, Inc.')
 
 print(df)
 ```
