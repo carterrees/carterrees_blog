@@ -20,7 +20,7 @@ import pandas as pd
 df = pd.DataFrame(
     [['Parent Company A', 'Micro, Inc', 221], 
     ['Parent Company A', 'micro inc', 221], 
-    ['Parent Company A', 'Micro, Inc.' , 221],
+    ['Parent Company A', 'Micro, inc' , 221],
     ['Parent Company B', 'Poop Corp', 435],
     ['Parent Company B', 'Poop Corp', 435]],
     columns=['parent_company', 'subsidary', 
@@ -40,7 +40,7 @@ Parent Company B  | Poop, Corp      | 435
 Parent Company B  | Poop, Corp      | 435
 
 ```python
-comp_a sub_names = ['Micro, Inc', 'micro inc', 'Micro, inc']
+comp_a_sub_names = ['Micro, Inc', 'micro inc', 'Micro, inc']
 for sub_names in comp_a_sub_names:
     df['subsidary'] = df['subsidary'].str.replace(sub_names, 'Micro, Inc.')
 
